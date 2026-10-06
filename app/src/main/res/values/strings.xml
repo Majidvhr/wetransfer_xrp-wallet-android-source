@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XRP Wallet</string>
+    <string name="privacy_policy_url">https://website-three-rho-99.vercel.app/privacy</string>
+    <string name="terms_url">https://website-three-rho-99.vercel.app/terms</string>
+    <string name="support_url">https://website-three-rho-99.vercel.app/support</string>
+    <string name="camera_disclosure">VaultXRP uses the camera only to read an XRPL address QR. Frames are processed on this device and are not stored or uploaded.</string>
+</resources>

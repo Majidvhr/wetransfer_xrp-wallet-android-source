@@ -1,0 +1,12 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.cxx/
+keystore/release.jks
+app/release/
+keystore/keystore.properties
+keystore/generated-backup/
+keystore/*.zip
